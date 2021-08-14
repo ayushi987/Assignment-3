@@ -1,0 +1,45 @@
+/* p{
+    color:burlywood;
+font-family:fantasy;
+}
+.alexis{
+     color:cadetblue;
+     
+} */
+/* body{
+    margin: 0px;
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    height: 400px;
+    width: 100%;
+    background-color: aqua;
+    /* padding: 50px;
+    border: 10px dotted black;
+    margin: 50px; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+/* .two{
+    height: 100px;
+    width: 50%;
+    background-color: violet;
+    display: inline-block;
+} */
+
+.one_child{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    /* padding: 50px;
+    border: 10px dotted black;
+    margin: 50px; */
+    background-color: violet;
+   
+}
+
